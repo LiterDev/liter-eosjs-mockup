@@ -167,3 +167,6 @@ sh ./deploy.sh
 ## License
 
 [MIT License](README.md) - [Daniel Sousa](https://github.com/danielfsousa)
+=======
+# liter-eosjs-mockup
+liter-eosjs-mockup
